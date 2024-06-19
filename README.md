@@ -1,2 +1,2 @@
 # stardew-companion-cli
-Simple CLI for Stardew Valley utilizing JavaScript, Node.js, Inquirer.js, and Axios.
+Simple companion command-line interface for Stardew Valley utilizing JavaScript, Node.js, Inquirer.js, and Axios. Each feature of the CLI is compartmentalized into separate microservices.
